@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gogbojour.github.io/sitemap.xml
